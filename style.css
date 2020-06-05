@@ -61,6 +61,8 @@ body {
   justify-content: center;
   align-items: center;
   overflow: hidden;
+  border-top-right-radius: 50px;
+  border-bottom-right-radius: 50px;
 }
 .menu-nav-link {
   text-decoration: none;
@@ -88,8 +90,6 @@ body {
   margin-right: -50px;
   border-top-left-radius: 50px;
   border-bottom-left-radius: 50px;
-  border-top-right-radius: 50px;
-  border-bottom-right-radius: 50px;
   visibility: hidden;
 }
 .menu-nav_active {
